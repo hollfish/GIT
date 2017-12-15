@@ -68,7 +68,7 @@
 
           <key>bundle-identifier</key>
 
-          <string>com.skygame.skygame</string>
+          <string>org.cocos2dx.game24</string>
 
           <key>bundle-version</key>
 
