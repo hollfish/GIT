@@ -68,7 +68,7 @@
 
           <key>bundle-identifier</key>
 
-          <string>org.cocos2dx.game24</string>
+          <string>sky.cocos2dx.Warrior</string>
 
           <key>bundle-version</key>
 
