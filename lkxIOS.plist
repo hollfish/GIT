@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="ver 2013.01.09 1.01.02(.02)">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>http://47.89.11.128/hmbl.ipa</string>
+          </dict>
+          <!--<dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://www.goldb.vip/bao_512.ico</string>
+          </dict>-->
+          <!--<dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://www.goldb.vip/bao_512.ico</string>
+          </dict>-->
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>xxxxx.lekxxxaixin.leikxxx</string>
+          <key>bundle-version</key>
+          <string>1.0</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string>lkx</string>
+          <key>title</key>
+          <string>乐开鑫电玩</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
